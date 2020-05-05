@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.wrapper{
+    margin: 0 auto;
+    width: 900px;
+
+}
+.header{
+    margin: 0 0 90px 0  ;
+    padding: 70px 0 0 0 ;
+}
+.nav-list{
+    text-align: center;
+   
+
+}
+.list-item{
+    display: inline-block;
+    /* margin: 0 120px 0 0 ; */
+}
+.nav-link{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.418);
+    font-size: 24px;
+    font-family: 'Playfair Display',  serif;
+
+
+}
+.list-item-r{
+margin-right: 120px ;
+}
+.main{
+    margin: 0 0 60px;
+    color: #777777;
+
+}
+.main-artical-list{
+    font-size: 0;
+
+}
+
+.main-artical-item{
+    display: inline-block;
+    width: 420px;
+    /* margin-right: 60px; */
+    font-size: 16px;
+    margin: 0 0 140px 0 ;
+  
+}
+.main-artical-item-r{
+    margin-right: 60px ;
+}
+    
+.artical-photo{
+    margin: 0 0 30px 0;
+}
+.artical-text{
+    margin: 0 0 30px 0; 
+  color: #77777765;
+}
+.artical-title{
+ margin: 0 0 40px 0 ;
+    font-family: myriad-pro, sans-serif;
+font-style: normal;
+font-weight: 700;
+}
+
+
+footer{
+    margin: 0 0 70px 0 ;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    border: 1px solid grey;
+    width: 160px;
+    height: 60px;
+    
+    
+}
